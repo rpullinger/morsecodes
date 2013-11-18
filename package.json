@@ -1,0 +1,11 @@
+{
+  "name": "morsecod.es",
+  "version": "0.0.0",
+  "description": "Morsecode site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Pullinger",
+  "license": "BSD-2-Clause"
+}
